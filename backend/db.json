@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Igor Baesse de Araujo",
+            "email": "igorbaesse86@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Iago Baesse de Araujo",
+            "email": "iagobaesse86@gmail.com"
+        }
+    ]
+}
